@@ -8,7 +8,7 @@ FnProjects is the projects of **Fayas Noushad**. You can checkout [Telegram Chan
 
 ---
 
-**Projects:**
+**Fayas Noushad Projects List:**
 
 - [Telegram Bots](https://telegrambots.fayas.me)
 - [Telegram Repositories](https://telegramrepositories.fayas.me)
