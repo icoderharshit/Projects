@@ -10,6 +10,7 @@ FnProjects is the projects of **Fayas Noushad**. You can checkout [Telegram Chan
 
 **Fayas Noushad Projects List:**
 
+- [APIs](https://api.fayas.me)
 - [Telegram Bots](https://telegrambots.fayas.me)
 - [Telegram Repositories](https://telegramrepositories.fayas.me)
 - [GitHub Opensource Projects](https://github.com/FayasNoushad?tab=repositories)
