@@ -4,10 +4,6 @@ My projects
 
 ---
 
-FnProjects is the projects of **Fayas Noushad**. You can checkout [Telegram Channel](https://telegram.me/FnProjects) and [GitHub Organization](https://github.com/FnProjects).
-
----
-
 **Fayas Noushad Projects List:**
 
 - [APIs](https://api.fayas.me)
